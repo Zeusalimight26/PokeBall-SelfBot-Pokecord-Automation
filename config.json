@@ -1,25 +1,26 @@
 {
-   "token": "",
-   "command_prefix": "P^",
+   "token": "NzQwNDIwMTUxMDI2OTA5MjU2.Xzm6Qg.uw9oLWAdgR2EcRtxt5FK9wD6B2w",
+   "command_prefix": "p!",
    "priority": [
       "Groudon",
 	  "Mew",
       "Machop",
-      "Staryu"
+      "Staryu",
+       "Lunalu"
    ],
    "avoid": [],
    "catch_rate": 90,
    "delay": 3,
-   "delay_on_priority": false,
+   "delay_on_priority": true,
    "restrict_duplicates": true,
    "max_duplicates": 2,
-   "blacklists": [],
-   "whitelists": [],
+   "blacklists": [744777858756509747],
+   "whitelists": [743698205044113491],
    "blacklist_guilds": [382316968394620938],
    "whitelist_guilds": [],
    "autolog": true,
    "update_checker": true,
    "auto_update": true,
-   "autocatcher": false,
+   "autocatcher": true,
    "priority_only": false
 }
