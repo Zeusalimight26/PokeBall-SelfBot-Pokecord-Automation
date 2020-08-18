@@ -1,6 +1,6 @@
 {
    "token": "",
-   "command_prefix": "P^",
+   "command_prefix": "p!",
    "priority": [
       "Groudon",
 	  "Mew",
